@@ -1,0 +1,5 @@
+# ignore virtual environment directory
+env/
+
+# ignore vscode directory
+.vscode/
