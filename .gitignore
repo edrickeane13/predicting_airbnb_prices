@@ -1,5 +1,8 @@
-# ignore virtual environment directory
+# Ignore virtual environment directory
 env/
 
-# ignore vscode directory
+# Ignore vscode directory
 .vscode/
+
+# Ignore docx files
+*.docx
