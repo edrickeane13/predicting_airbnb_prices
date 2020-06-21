@@ -24,18 +24,18 @@ Listing ID,Location,Latitude,Longitude,Number of Guests,Bathrooms,Bedrooms,Beds,
 38636418,"Bendungan Hilir, Central Jakarta",-6.19862,106.81594,4,1.5,1.0,1.0,5,Entire home/apt,5.0,3,30,400000.0,nightly
 13070735,"Bungur, Central Jakarta",-6.17935,106.84346,3,1.0,1.0,2.0,3,Hotel room,3.67,1,1125,323500.0,nightly
 13070077,"Bungur, Central Jakarta",-6.18108,106.84445,2,1.0,1.0,1.0,3,Private room,4.0,1,1125,300300.0,nightly
-13480799,"Bungur, Central Jakarta",-6.17136,106.85408,2,1.0,1.0,1.0,5,Private room,4.5,1,1125,284725.0,nightly
+24087007,"Bungur, Central Jakarta",-6.1812,106.85448,2,1.0,1.0,1.0,7,Private room,4.71,1,7,150000.0,nightly
 13069464,"Bungur, Central Jakarta",-6.1811,106.84455,1,1.0,1.0,1.0,4,Hotel room,4.75,1,1125,254500.0,nightly
 32205604,"Bungur, Central Jakarta",-6.17557,106.84536,1,1.0,1.0,1.0,7,Private room,3.71,1,333,142000.0,nightly
 34981691,"Bungur, Central Jakarta",-6.18091,106.83821,2,1.0,0.0,1.0,47,Entire home/apt,4.77,1,60,400645.0,nightly
 42842911,"Bungur, Central Jakarta",-6.1813,106.83879,2,1.0,1.0,1.0,3,Entire home/apt,5.0,1,365,550000.0,nightly
+13480799,"Bungur, Central Jakarta",-6.17136,106.85408,2,1.0,1.0,1.0,5,Private room,4.5,1,1125,284725.0,nightly
 28440122,"Bungur, Central Jakarta",-6.16578,106.83977,2,1.0,1.0,1.0,108,Entire home/apt,4.87,1,8,220000.0,nightly
-24087007,"Bungur, Central Jakarta",-6.1812,106.85448,2,1.0,1.0,1.0,7,Private room,4.71,1,7,150000.0,nightly
 35326489,"Cempaka Baru, Central Jakarta",-6.15486,106.85092,3,1.0,1.0,2.0,43,Entire home/apt,4.7,1,35,395500.0,nightly
 10499127,"Cempaka Baru, Central Jakarta",-6.17035,106.86671,4,1.0,2.0,3.0,31,Entire home/apt,4.57,3,1125,220000.0,nightly
-11348517,"Cempaka Baru, Central Jakarta",-6.15489,106.851,4,1.0,1.0,2.0,44,Entire home/apt,4.72,1,1125,445000.0,nightly
 15258140,"Cempaka Baru, Central Jakarta",-6.15438,106.85288,4,1.0,2.0,2.0,19,Entire home/apt,4.42,1,30,550000.0,nightly
 24168371,"Cempaka Baru, Central Jakarta",-6.18134,106.86916,4,1.0,2.0,2.0,5,Entire home/apt,4.75,1,1125,300000.0,nightly
+11348517,"Cempaka Baru, Central Jakarta",-6.15489,106.851,4,1.0,1.0,2.0,44,Entire home/apt,4.72,1,1125,445000.0,nightly
 13197328,"Cempaka Baru, Central Jakarta",-6.15418,106.85262,4,1.0,2.0,2.0,3,Entire home/apt,4.67,1,1125,569450.0,nightly
 21062526,"Cempaka Baru, Central Jakarta",-6.15458,106.85208,4,1.0,2.0,3.0,36,Entire home/apt,4.86,2,1125,420000.0,nightly
 18378734,"Cempaka Putih Barat, Central Jakarta",-6.19312,106.85025,2,1.0,0.0,1.0,144,Entire home/apt,4.67,2,1125,270000.0,nightly
@@ -87,10 +87,10 @@ Listing ID,Location,Latitude,Longitude,Number of Guests,Bathrooms,Bedrooms,Beds,
 32225743,"Cideng, Central Jakarta",-6.19048,106.81937,1,1.0,1.0,1.0,5,Private room,5.0,1,1125,230000.0,nightly
 42146942,"Cideng, Central Jakarta",-6.18042,106.79289,2,1.0,1.0,1.0,11,Entire home/apt,4.91,1,1125,261006.0,nightly
 38914544,"Cideng, Central Jakarta",-6.17941,106.79104,3,1.0,0.0,2.0,23,Entire home/apt,4.96,2,180,350000.0,nightly
-41697189,"Cideng, Central Jakarta",-6.1816,106.79142,2,1.0,0.0,1.0,20,Entire home/apt,4.85,1,1125,299000.0,nightly
 17439339,"Cideng, Central Jakarta",-6.18258,106.79473,1,1.5,1.0,1.0,23,Private room,4.83,2,1125,170000.0,nightly
-27762463,"Cikini, Central Jakarta",-6.19143,106.84,2,1.0,0.0,1.0,79,Entire home/apt,4.97,2,30,365000.0,nightly
+41697189,"Cideng, Central Jakarta",-6.1816,106.79142,2,1.0,0.0,1.0,20,Entire home/apt,4.85,1,1125,299000.0,nightly
 20983180,"Cikini, Central Jakarta",-6.19124,106.83998,2,1.0,0.0,1.0,63,Entire home/apt,5.0,2,1125,306999.0,nightly
+27762463,"Cikini, Central Jakarta",-6.19143,106.84,2,1.0,0.0,1.0,79,Entire home/apt,4.97,2,30,365000.0,nightly
 5021049,"Cikini, Central Jakarta",-6.19389,106.83662,2,1.0,1.0,1.0,132,Entire home/apt,4.86,1,1125,555214.0,nightly
 20963905,"Cikini, Central Jakarta",-6.19089,106.8399,2,1.0,0.0,1.0,30,Entire home/apt,4.9,3,365,500000.0,nightly
 28527778,"Cikini, Central Jakarta",-6.19208,106.83887,2,1.0,1.0,1.0,26,Entire home/apt,4.27,2,30,400000.0,nightly
@@ -123,10 +123,10 @@ Listing ID,Location,Latitude,Longitude,Number of Guests,Bathrooms,Bedrooms,Beds,
 36490703,"Duri Pulo, Central Jakarta",-6.22457,106.84087,2,1.0,1.0,1.0,39,Entire home/apt,4.77,2,25,300000.0,nightly
 32686669,"Duri Pulo, Central Jakarta",-6.22391,106.87908,2,1.0,0.0,1.0,85,Entire home/apt,4.94,2,1125,350000.0,nightly
 27736485,"Duri Pulo, Central Jakarta",-6.14748,106.84005,2,1.0,1.0,0.0,42,Entire home/apt,4.67,3,30,200000.0,nightly
-36294310,"Duri Pulo, Central Jakarta",-6.21884,106.82573,2,1.0,1.0,2.0,25,Private room,4.84,2,30,230000.0,nightly
+17658229,"Duri Pulo, Central Jakarta",-6.16359,106.83236,2,1.0,1.0,1.0,86,Entire home/apt,4.74,2,1125,250000.0,nightly
 32848542,"Duri Pulo, Central Jakarta",-6.2285,106.82519,4,2.0,2.0,2.0,64,Entire home/apt,4.66,1,1125,549000.0,nightly
 27356689,"Duri Pulo, Central Jakarta",-6.19481,106.81369,4,1.0,1.0,2.0,139,Entire home/apt,4.82,1,1125,455560.0,nightly
-17658229,"Duri Pulo, Central Jakarta",-6.16359,106.83236,2,1.0,1.0,1.0,86,Entire home/apt,4.74,2,1125,250000.0,nightly
+36294310,"Duri Pulo, Central Jakarta",-6.21884,106.82573,2,1.0,1.0,2.0,25,Private room,4.84,2,30,230000.0,nightly
 27730496,"Duri Pulo, Central Jakarta",-6.21727,106.82056,2,1.0,0.0,1.0,37,Entire home/apt,4.65,1,1125,350000.0,nightly
 3443755,"Duri Pulo, Central Jakarta",-6.19238,106.85921,2,1.0,1.0,1.0,369,Private room,4.75,1,1125,327434.0,nightly
 14518831,"Gambir, Central Jakarta",-6.15933,106.81977,4,1.0,2.0,3.0,24,Entire home/apt,4.33,1,1125,349000.0,nightly
@@ -149,14 +149,14 @@ Listing ID,Location,Latitude,Longitude,Number of Guests,Bathrooms,Bedrooms,Beds,
 6709538,"Gelora, Central Jakarta",-6.22296,106.78353,2,1.0,1.0,1.0,55,Entire home/apt,4.75,2,1125,375000.0,nightly
 39596927,"Gelora, Central Jakarta",-6.24264,106.79967,4,1.0,1.0,2.0,9,Entire home/apt,5.0,3,1125,378000.0,nightly
 39904550,"Gelora, Central Jakarta",-6.22705,106.793,2,1.0,0.0,1.0,3,Private room,4.67,1,31,410000.0,nightly
-24126128,"Gondangdia, Central Jakarta",-6.19137,106.83829,3,1.0,1.0,1.0,57,Entire home/apt,4.82,1,1125,425000.0,nightly
 38612108,"Gondangdia, Central Jakarta",-6.19322,106.8209,2,1.0,1.0,0.0,4,Entire home/apt,4.25,2,1125,270000.0,nightly
 30248642,"Gondangdia, Central Jakarta",-6.19307,106.83847,3,1.0,1.0,1.0,29,Entire home/apt,4.97,3,1125,300000.0,nightly
 27377730,"Gondangdia, Central Jakarta",-6.19208,106.83887,2,1.0,0.0,1.0,79,Entire home/apt,4.95,1,365,415000.0,nightly
+24126128,"Gondangdia, Central Jakarta",-6.19137,106.83829,3,1.0,1.0,1.0,57,Entire home/apt,4.82,1,1125,425000.0,nightly
 23529821,"Gunung Sahari Utara, Central Jakarta",-6.1458,106.84019,2,1.0,1.0,1.0,66,Entire home/apt,4.62,1,1125,250000.0,nightly
-17871716,"Gunung Sahari Utara, Central Jakarta",-6.13991,106.84874,2,1.5,1.0,1.0,13,Entire home/apt,4.58,2,1125,450000.0,nightly
-18511618,"Gunung Sahari Utara, Central Jakarta",-6.14793,106.85022,2,1.0,1.0,1.0,11,Entire home/apt,4.73,2,1125,450000.0,nightly
 8834760,"Gunung Sahari Utara, Central Jakarta",-6.14485,106.83485,2,1.0,1.0,1.0,72,Private room,4.59,1,1125,500000.0,nightly
+18511618,"Gunung Sahari Utara, Central Jakarta",-6.14793,106.85022,2,1.0,1.0,1.0,11,Entire home/apt,4.73,2,1125,450000.0,nightly
+17871716,"Gunung Sahari Utara, Central Jakarta",-6.13991,106.84874,2,1.5,1.0,1.0,13,Entire home/apt,4.58,2,1125,450000.0,nightly
 30216815,"Gunung Sahari Utara, Central Jakarta",-6.1303,106.83873,4,1.0,2.0,2.0,10,Entire home/apt,4.78,2,1125,400000.0,nightly
 36004937,"Gunung Sahari Utara, Central Jakarta",-6.1304,106.82851,4,1.0,0.0,2.0,34,Entire home/apt,4.71,1,1125,250000.0,nightly
 35702194,"Gunung Sahari Utara, Central Jakarta",-6.14997,106.85091,3,1.0,2.0,2.0,23,Entire home/apt,4.91,1,30,450000.0,nightly
@@ -246,8 +246,8 @@ Listing ID,Location,Latitude,Longitude,Number of Guests,Bathrooms,Bedrooms,Beds,
 36406024,"Serdang, Central Jakarta",-6.14632,106.85376,4,1.0,2.0,3.0,36,Entire home/apt,5.0,2,1125,460000.0,nightly
 11732311,"Serdang, Central Jakarta",-6.15072,106.85625,2,1.0,1.0,1.0,60,Entire home/apt,4.64,3,1125,242016.0,nightly
 35865846,"Sumur Batu, Central Jakarta",-6.17076,106.88815,2,1.5,1.0,1.0,9,Private room,4.78,2,365,412851.0,nightly
-31445780,"Sumur Batu, Central Jakarta",-6.17559,106.89205,2,1.0,0.0,1.0,30,Entire home/apt,4.9,1,1125,349500.0,nightly
 36854914,"Sumur Batu, Central Jakarta",-6.17008,106.88793,3,1.5,1.0,2.0,3,Entire home/apt,2.33,3,29,220000.0,nightly
+31445780,"Sumur Batu, Central Jakarta",-6.17559,106.89205,2,1.0,0.0,1.0,30,Entire home/apt,4.9,1,1125,349500.0,nightly
 15045156,"Sumur Batu, Central Jakarta",-6.17465,106.8929,2,1.0,1.0,1.0,36,Entire home/apt,4.81,2,1125,275000.0,nightly
 39169566,"Sumur Batu, Central Jakarta",-6.17465,106.89362,2,0.5,1.0,1.0,7,Entire home/apt,5.0,2,1125,298961.0,nightly
 23970658,"Sumur Batu, Central Jakarta",-6.1751,106.89234,3,1.0,1.0,2.0,18,Entire home/apt,4.94,3,30,328000.0,nightly
