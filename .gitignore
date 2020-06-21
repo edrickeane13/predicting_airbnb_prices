@@ -4,5 +4,3 @@ env/
 # Ignore vscode directory
 .vscode/
 
-# Ignore docx files
-*.docx
